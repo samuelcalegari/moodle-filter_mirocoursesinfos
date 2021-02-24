@@ -1,0 +1,70 @@
+#course-infos > .hidden-lg-up span {
+    display: block;
+    width: 100%;
+    height: 64px;
+    line-height: 32px;
+}
+
+#course-infos .bigicons:before {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 136px;
+    float: left;
+    margin-right: 20px;
+    margin-left: 6px;
+}
+
+#course-infos .smallicons:before {
+    content: "";
+    display: block;
+    width: 50px;
+    height: 64px;
+    float: left;
+    clear: left;
+}
+
+#course-infos .author-fr:before {
+    background: url('[[pix:filter_mirocoursesinfos|author-fr]]') no-repeat;
+}
+
+#course-infos .time-fr:before {
+    background: url('[[pix:filter_mirocoursesinfos|time-fr]]') no-repeat;
+}
+
+#course-infos .langa-fr:before {
+    background: url('[[pix:filter_mirocoursesinfos|lang-fr]]') no-repeat;
+}
+
+#course-infos .author-en:before {
+    background: url('[[pix:filter_mirocoursesinfos|author-en]]') no-repeat;
+}
+
+#course-infos .time-en:before {
+    background: url('[[pix:filter_mirocoursesinfos|time-en]]') no-repeat;
+}
+
+#course-infos .langa-en:before {
+    background: url('[[pix:filter_mirocoursesinfos|lang-en]]') no-repeat;
+}
+
+#course-infos .authori:before {
+    background: url('[[pix:filter_mirocoursesinfos|authori]]') no-repeat;
+}
+
+#course-infos .timei:before {
+    background: url('[[pix:filter_mirocoursesinfos|timei]]') no-repeat;
+}
+
+#course-infos .langai:before {
+    background: url('[[pix:filter_mirocoursesinfos|langi]]') no-repeat;
+}
+
+#course-title {
+    width: 100%;
+    padding-top: 45px;
+    color: #fff;
+    height: 123px;
+    background: url('[[pix:filter_mirocoursesinfos|bandeau]]') no-repeat;
+    text-align: center;
+}
